@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.677333,
+Dolley The Fire Dog  Book Club0.ts
+#EXTINF:10.176833,
+Dolley The Fire Dog  Book Club1.ts
+#EXTINF:9.175833,
+Dolley The Fire Dog  Book Club2.ts
+#EXTINF:10.010000,
+Dolley The Fire Dog  Book Club3.ts
+#EXT-X-ENDLIST

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.677333,
+Pirate Queens  Book Club0.ts
+#EXTINF:10.677333,
+Pirate Queens  Book Club1.ts
+#EXTINF:10.677333,
+Pirate Queens  Book Club2.ts
+#EXTINF:9.009000,
+Pirate Queens  Book Club3.ts
+#EXTINF:12.345667,
+Pirate Queens  Book Club4.ts
+#EXTINF:6.673778,
+Pirate Queens  Book Club5.ts
+#EXT-X-ENDLIST
