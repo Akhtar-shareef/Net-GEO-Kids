@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:11.433333,
+Everything you wanted to learn about sharks!  National Geographic Kids0.ts
+#EXTINF:9.666667,
+Everything you wanted to learn about sharks!  National Geographic Kids1.ts
+#EXTINF:9.200000,
+Everything you wanted to learn about sharks!  National Geographic Kids2.ts
+#EXT-X-ENDLIST
